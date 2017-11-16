@@ -26,7 +26,7 @@ RPM- rpm during testing
 
 Click on a link below to continue:
 
-[Normal Baseline Data](http://csegroups.case.edu/bearingdatacenter/pages/normal-baseline-data)
-[12k Drive End Bearing Fault Data](http://csegroups.case.edu/bearingdatacenter/pages/12k-drive-end-bearing-fault-data)
-[48k Drive End Bearing Fault Data](http://csegroups.case.edu/bearingdatacenter/pages/48k-drive-end-bearing-fault-data)
-[Fan-End Bearing Fault Data](http://csegroups.case.edu/bearingdatacenter/pages/12k-fan-end-bearing-fault-data)
+- [Normal Baseline Data](http://csegroups.case.edu/bearingdatacenter/pages/normal-baseline-data)
+- [12k Drive End Bearing Fault Data](http://csegroups.case.edu/bearingdatacenter/pages/12k-drive-end-bearing-fault-data)
+- [48k Drive End Bearing Fault Data](http://csegroups.case.edu/bearingdatacenter/pages/48k-drive-end-bearing-fault-data)
+- [Fan-End Bearing Fault Data](http://csegroups.case.edu/bearingdatacenter/pages/12k-fan-end-bearing-fault-data)
