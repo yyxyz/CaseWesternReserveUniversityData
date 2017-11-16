@@ -7,7 +7,7 @@
 ## 设备 & Procedures
 
 
-![](http://csegroups.case.edu/bearingdatacenter/files/CWRU_teststand.jpg) 图 1
+![](https://github.com/yyxyz/CaseWesternReserveUniversityData/blob/master/CWRU_teststand.jpg) 图 1
 
 如图1所示，实验平台包括一个2马力的电机（左侧），一个转矩传感器（中间），一个功率计（右侧）和电子控制设备（没有显示）。被测试轴承支承电机轴。使用电火花加工技术在轴承上布置了单点故障，故障直径分别为0.007、0.014、0.021 mils、0.028 mils和0.040英寸(1厘米=0.001 英寸)。See FAULT SPECIFICATIONS for fault depths.其中前三种故障直径的轴承使用的是SKF轴承，后两种故障直径的轴承使用的是与之等效的NTN轴承。主动端轴承和fan end bearing specifications, including bearing geometry and defect frequencies are listed in the BEARING SPECIFICATIONS.
 
