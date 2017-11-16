@@ -5,7 +5,10 @@
 为了验证新的技术、理论，常常需要实验。这些电机轴承实验被进行是为了取得IQ PreAlert（一个由Rockwell开发的电机轴承状态评估系统）的性能特征。从这一项目进行以来，获取了一系列可以用来验证或改进电机性能评价技术的电机性能数据库。一些已经或正在利用这些数据库的项目包括：Winsnode状态评估技术，基于模型的诊断技术，电机转速确定算法。
 
 ## 设备 & Procedures
-![图 1](http://csegroups.case.edu/bearingdatacenter/files/CWRU_teststand.jpg)
+
+
+![](http://csegroups.case.edu/bearingdatacenter/files/CWRU_teststand.jpg) 图 1
+
 如图1所示，实验平台包括一个2马力的电机（左侧），一个转矩传感器（中间），一个功率计（右侧）和电子控制设备（没有显示）。被测试轴承支承电机轴。使用电火花加工技术在轴承上布置了单点故障，故障直径分别为0.007、0.014、0.021 mils、0.028 mils和0.040英寸(1厘米=0.001 英寸)。See FAULT SPECIFICATIONS for fault depths.其中前三种故障直径的轴承使用的是SKF轴承，后两种故障直径的轴承使用的是与之等效的NTN轴承。主动端轴承和fan end bearing specifications, including bearing geometry and defect frequencies are listed in the BEARING SPECIFICATIONS.
 
 实验中使用加速度采集振动信号，通过使用磁性底座将传感器安放在电机壳体上。加速度传感器分别安装在电机壳体的驱动端12点钟的位置。在有些实验中，传感器也被安放在电机支承底盘上。振动信号是通过16通道的DAT记录器采集的，并且后期在MATLAB环境中处理。数字信号的采样频率为12000Hz，驱动端轴承故障数据同时也以48000Hz的采样速率采集。 Speed and horsepower data were collected using the torque transducer/encoder and were recorded by hand.
